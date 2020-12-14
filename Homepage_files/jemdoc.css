@@ -101,6 +101,10 @@ em {
 	font-style: italic;
 }
 
+p#bio {
+	text-align: justify;
+}
+
 strong {
 	font-weight: bold;
 }
